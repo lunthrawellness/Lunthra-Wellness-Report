@@ -1,19 +1,21 @@
-# Lunthra Wellness - Security Incident Report
+# Lunthra Wellness - Incident Documentation
 
 ## Overview
-This repository contains documentation related to the security incident that occurred at Lunthra Wellness on June 13, 2025.
+This repository contains documentation related to the unexpected service disruption at Lunthra Wellness on June 13, 2025.
 
 ## Incident Summary
 - **Date:** June 13, 2025
 - **Impact:** Complete service outage
+- **Duration:** Ongoing
+- **Root Cause:** Unknown - Under investigation
 
 ## Repository Contents
-- `incident-timeline.md` - Detailed timeline of events
-- `post-incident-review.txt` - Internal review and lessons learned
+- `incident-timeline.md` - Events as they occurred
+- `internal-notes.txt` - Team observations and questions
 
-## Status
-- Production site: **OFFLINE** (security maintenance)
-- Staging environment: **ONLINE** (limited access)
+## Current Status
+- Production site: **OFFLINE** (indefinitely)
+- Staging environment: **ONLINE** (for investigation purposes)
 
 ---
-*For internal use only. Contact security@lunthrawellness.com for questions.*
+*Documentation maintained by development team*
