@@ -1,13 +1,11 @@
 # Lunthra Wellness - Security Incident Report
 
 ## Overview
-This repository contains documentation related to the security incident that occurred at Lunthra Wellness on October 15, 2024.
+This repository contains documentation related to the security incident that occurred at Lunthra Wellness on June 13, 2025.
 
 ## Incident Summary
-- **Date:** October 15, 2024
+- **Date:** June 13, 2025
 - **Impact:** Complete service outage
-- **Duration:** 48 hours
-- **Root Cause:** Security vulnerability in password reset mechanism
 
 ## Repository Contents
 - `incident-timeline.md` - Detailed timeline of events
